@@ -4,12 +4,32 @@
  <title>Monochrome | A minimal, responsive Jekyll blog theme</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-04-05T09:34:58+05:30</updated>
+ <updated>2017-04-05T10:55:44+05:30</updated>
  <author>
    <name>The Review Index</name>
    <uri>https://thereviewindex.com</uri>
    <email>dyutibarma@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Exploring the Homebrew Codebase &#35;0</title>
+   <link href="http://localhost:4000/homebrew-0"/>
+   <id>http://localhost:4000/homebrew-0</id>
+   <updated>2017-04-05T00:00:00+05:30</updated>
+   <content type="html">&lt;p&gt;Hello, there!&lt;/p&gt; &lt;p&gt;I’ve decided to write a series of blogs to document my experience of going through the Homebrew/brew repository. Hopefully, it should turn out as a pretty good starting point for someone planning to explore the Homebrew codebase.&lt;/p&gt; &lt;p&gt;For starters, Homebrew is the best package manager for macOS out...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Hello World</title>
+   <link href="http://localhost:4000/hello-world"/>
+   <id>http://localhost:4000/hello-world</id>
+   <updated>2017-04-05T00:00:00+05:30</updated>
+   <content type="html">&lt;p&gt;Hello Everyone.&lt;/p&gt; &lt;p&gt;Eiusmod excepteur sint ut labore ipsum cupidatat aute ut veniam sit aute nostrud eu sunt nisi occaecat occaecat. Tempor aliquip fugiat ullamco sunt esse enim aliqua aliquip nulla est nisi. Sit in culpa anim eu labore cillum consequat enim ullamco ex mollit cupidatat veniam veniam aliqua magna. Exercitation...</content>
+ </entry>
 
  
 
