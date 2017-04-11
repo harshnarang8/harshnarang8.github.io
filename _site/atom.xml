@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Monochrome | A minimal, responsive Jekyll blog theme</title>
+ <title>Blog site by Harsh Narang</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-04-08T08:59:44+05:30</updated>
+ <updated>2017-04-11T11:35:43+05:30</updated>
  <author>
-   <name>The Review Index</name>
-   <uri>https://thereviewindex.com</uri>
-   <email>dyutibarma@gmail.com</email>
+   <name>Blogs by Harsh</name>
+   <uri>https://home.iitk.ac.in/harshn</uri>
+   <email>harshnarang8@gmail.com</email>
  </author>
 
  
